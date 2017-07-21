@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4F7EE6DD36A6DC527DF66F0FBF0525FDFE80C20F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4F7EE6DD36A6DC527DF66F0FBF0525FDFE80C20F" : 9223372036854775807,
+    "D41AAD4CCE0A2A10E9F14C164F1BE1B382FE17F0" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "62A9E151-BD69-457F-8A46-C06EB614DD83",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4F7EE6DD36A6DC527DF66F0FBF0525FDFE80C20F" : "imgine-mac\/",
+    "D41AAD4CCE0A2A10E9F14C164F1BE1B382FE17F0" : "imgine-mac\/imgine-mac\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "imgine-mac",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "imgine-mac.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ilovecookiez11\/imgine-mac.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4F7EE6DD36A6DC527DF66F0FBF0525FDFE80C20F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ilovecookiez11\/imgine-mac.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D41AAD4CCE0A2A10E9F14C164F1BE1B382FE17F0"
+    }
+  ]
+}
