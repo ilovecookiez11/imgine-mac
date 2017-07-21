@@ -5,7 +5,7 @@ Imgine for Mac - uploads images to imgur and optionally searches them with Googl
 
 * Features
   * Drag and drop support
-  * Finder Service support
+  * Finder Service support (Enable it by going into System Preferences > Keyboard > Services > Pictures)
   
   ## Uses ARC, compatible with Mac OS X 10.9 and up
   
